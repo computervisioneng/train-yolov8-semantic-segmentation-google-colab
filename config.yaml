@@ -1,0 +1,6 @@
+path: /content/data/
+train: images/train
+val: images/validation
+
+nc: 2
+names: ['alpaca', 'duck']
