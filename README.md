@@ -1,7 +1,7 @@
 # train-yolov8-semantic-segmentation-google-colab
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=">
+<a href="https://www.youtube.com/watch?v=_tLeuN741Uc">
     <img width="100%" src="thumbnail.jpg" alt="Watch the video">
 </a>
 </p>
